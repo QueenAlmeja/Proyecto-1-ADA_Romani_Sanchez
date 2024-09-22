@@ -14,3 +14,5 @@ Puedes usar este código como guía si tienes en mente crear un juego de pregunt
 Recuerda que en Python hay más de una forma de crear o dar respuesta a problemas, así que atrevete a intentarlo 💚
 
 Esperamos que sea de mucho ayuda para quienes lo lean 🦉
+
+🔴Te dejamos un código limpio, sin comentarios para que puedas observar la estructura general del programa y un archivo ("ThePythonTriviaC") con #comentarios para que puedas estudiar y analizar mejor que hace cada parte del código 🔍🎮
